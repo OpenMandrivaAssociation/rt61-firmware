@@ -11,7 +11,6 @@ Source0: http://www.ralinktech.com/ralink/data/%{rtname}_V%{version}.tar.bz2
 License: Proprietary
 Group: System/Kernel and hardware
 Url: http://rt2x00.serialmonkey.com/
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 
 %description
