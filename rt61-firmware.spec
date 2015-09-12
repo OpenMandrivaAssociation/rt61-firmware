@@ -3,7 +3,7 @@
 Summary:	Firmware for the RT61 chip
 Name:		rt61-firmware
 Version:	1.2
-Release:	6
+Release:	7
 Source0:	http://www.ralinktech.com/ralink/data/%{rtname}_V%{version}.tar.bz2
 License:	Proprietary
 Group:		System/Kernel and hardware
